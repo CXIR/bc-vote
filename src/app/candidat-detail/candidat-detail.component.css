@@ -1,0 +1,23 @@
+.rounded-picture{
+  border-radius: 60em;
+  height: 10em;
+  width: 10em;
+  object-fit: cover;
+  margin-right: 1em;
+}
+
+.candidat-detail-head{
+  float: left;
+  width: 30%;
+  margin-right: 5em;
+}
+
+.candidat-detail-programm{
+  width: 65%;
+  float: left;
+}
+
+.candidat-detail-programm p{
+  overflow-y: scroll;
+  height: 20em;
+}

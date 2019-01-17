@@ -1,0 +1,25 @@
+.navbar img {
+  margin-right: 1em;
+}
+
+.wrap {
+  width: 90%;
+  margin-left:5%;
+  margin-top : 5em;
+}
+
+.french-flag{
+  width: 100%;
+}
+
+.french-flag div {
+  float: left;
+  height: 0.5em;
+}
+
+.french-flag-lg {
+  width: 35%;
+}
+.french-flag-sm{
+  width: 30%;
+}

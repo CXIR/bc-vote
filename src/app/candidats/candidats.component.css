@@ -1,0 +1,8 @@
+.candidate-card {
+  min-width: 25em;
+  width: 25em;
+  max-width: 25em;
+  float: left;
+  margin-right: 1em;
+  margin-left: 1em;
+}

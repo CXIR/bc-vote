@@ -10,5 +10,6 @@ export class CandidatsComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    
   }
 }
